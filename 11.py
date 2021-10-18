@@ -4,7 +4,7 @@ if 0 >= x:
     print('x не может быть равен 0!')
     while 0 >= x:
         x = int(input('Введите x: '))
-b = int(input('Введите x: '))
+b = int(input('Введите b: '))
 if 0 >= b:
     print('x не может быть равен 0!')
     while 0 >= b:
